@@ -73,8 +73,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: 
-    url: 
+    username: origin
+    url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
     share: false
 
@@ -94,8 +94,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: 
-    url: 
+    username: xxvk
+    url: https://www.linkedin.com/
     desc: Connect with me on LinkedIn
     share: false
 
