@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Reformation
-subtitle: "A workgroup blog about moonshots."
+subtitle: "Workgroup about moonshots."
 email: xxvk@outlook.com
 name: Van Knox
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  © Copyright 2016 Reformation Technologies. All Rights Reserved.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -73,14 +73,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: 
+    url: 
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: 
     url:
     desc: Friend me on Facebook
     share: true
@@ -94,8 +94,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: 
+    url: 
     desc: Connect with me on LinkedIn
     share: true
 
@@ -181,12 +181,12 @@ social:
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image_width: 768
+    fb_image_height: 768
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"
 
-    os_repo: "https://github.com/bencentra/centrarium.com"
+    os_repo: "https://github.com/xxvk/xxvk.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:bencentra/centrarium.com.git"
+    os_src: "git@github.com:xxvk/xxvk.github.io.git"

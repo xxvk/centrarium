@@ -6,12 +6,14 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Reformation is a workgroup for innovations. Which represents oneself as the Activator of Technologies and Media. We eager to make differents about ideas, humbled to discuss future with free-thinking, and contribute our cute projects to [community](github). Reformation is found by [xxvk](xxvk@outlook.com), as a coder and a graphic designer, defined what Reformation is and will be. Hope you like our work!
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+# web contents
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In [Products](/products/). This tab is a good place to find about our released project. Like Software, Server Applications, Smart Devices, Data research or Media and Art stuffs. Many of them also included the manual of itself. If your confused about Project's function  or have some issue with using, check it out in each product. Or you want to share these with someone, they can also be good story tellers. 
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+In [Moonshot](/moonshot). Can find out our current project working on now. Basically is our concepts and schedules about the project. Also madness speaking so called visions by  their creators who really naive to believe about changing world, in some how.
+
+[raw]: https://github.com/xxvk/xxvk.github.io
+[bencentra]: http://reformation.tech
+[github]: https://github.com/
