@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-Reformation is a workgroup for innovations. Which represents oneself as the Activator of Technologies and Media. We eager to make differents about ideas, humbled to discuss future with free-thinking, and contribute our cute projects to [community](github). Reformation is found by [xxvk](xxvk@outlook.com), as a coder and a graphic designer, defined what Reformation is and will be. Hope you like our work!
+Reformation is a workgroup for innovations. Which represents oneself as the Activator of Technologies and Media. We eager to make differents about ideas, humbled to discuss future with free-thinking, and contribute our cute projects to [community](https://github.com/). Reformation is found by [xxvk](xxvk@outlook.com), as a coder and a graphic designer, defined what Reformation is and will be. Hope you like our work!
 
 # web contents
 
